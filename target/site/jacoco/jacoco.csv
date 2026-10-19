@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+THB3,com.ctu.exception,PaymentFailedException,0,4,0,0,0,1,0,1,0,1
+THB3,com.ctu.exception,RoomNotAvailableException,0,4,0,0,0,2,0,1,0,1
+THB3,com.ctu.service,BookingService,0,82,1,11,0,17,1,8,0,3
+THB3,com.ctu.model,Room,3,22,0,0,1,8,1,4,1,4
+THB3,com.ctu.model,BookingReceipt,0,21,0,0,0,8,0,4,0,4
